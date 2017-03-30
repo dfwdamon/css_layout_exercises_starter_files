@@ -1,18 +1,16 @@
-main {
-	padding: 30px;
+body {
+	/*font-size: 0;*/
+}
+
+.container {
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 500px;
+	width: 800px;
 	font-size: 0;
+	border: 1px black solid;
 }
-
-.container-one {
-margin-top: 90px;
-margin-left: auot;
-margin-right: auto;
-height: 500px;
-width: 800px;
-font-size: 0;
-border: 1px black solid;
-}
-
 
 .box1 {
 	width: 50%;
@@ -21,45 +19,44 @@ border: 1px black solid;
 
 .box2 {
 	width: 33.33%
-	height: 300px; 
-	
+	height: 300px;
 }
 
-    /*.box3 {
+/*.box3 {
 	width: 33%
 	height: 300px;
 	background-color: gray;
 }
 
-     /*.box4 {
+ /*.box4 {
 	width: 33%
-	height: 300px; 
+	height: 300px;
 	background-color: black;
 }
 
-   /*.box5 {  
+/*.box5 {
 	width: 33%
-	height: 300px; 
+	height: 300px;
 	background-color: orange;
 }
 */
 
 .box1 {
-	background-color: green; 
+	background-color: green;
 }
 
 .box2 {
-	background-color: blue; 
+	background-color: blue;
 }
 
 .box3 {
-	background-color: grey; 
+	background-color: grey;
 }
 
 .box4 {
-	background-color: black; 
+	background-color: black;
 }
 
 .box5 {
-	background-color: orange; 
+	background-color: orange;
 }
